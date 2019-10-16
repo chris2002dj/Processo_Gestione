@@ -10,7 +10,7 @@ namespace ProcessiApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.WriteLine("Esercitazione sulla gestione");
         }
     }
 }
